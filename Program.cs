@@ -5,8 +5,10 @@
     Console.WriteLine("Welcome to Rock, Paper, and Scissors!!!");
     Console.WriteLine();
     string userHand = GetUserHand();
+    string computerHand = GetComputerHand();
 
     Console.WriteLine($"You chose: {userHand}");
+    Console.WriteLine($"Computer chose: {computerHand}");
   }
 
   static string GetUserHand()
@@ -39,6 +41,25 @@
       Console.WriteLine("Invalid input. Please try again.");
       Console.WriteLine();
       return GetUserHand();
+    }
+  }
+
+  static string GetComputerHand()
+  {
+    Random random = new Random();
+    int computerHand = random.Next(1, 4);
+
+    if (computerHand == 1)
+    {
+      return "Rock";
+    }
+    else if (computerHand == 2)
+    {
+      return "Paper";
+    }
+    else
+    {
+      return "Scissors";
     }
   }
 }
