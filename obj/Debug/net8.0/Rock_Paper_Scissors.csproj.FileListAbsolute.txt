@@ -1,0 +1,14 @@
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\bin\Debug\net8.0\Rock_Paper_Scissors.exe
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\bin\Debug\net8.0\Rock_Paper_Scissors.deps.json
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\bin\Debug\net8.0\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\bin\Debug\net8.0\Rock_Paper_Scissors.dll
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\bin\Debug\net8.0\Rock_Paper_Scissors.pdb
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.dll
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\refint\Rock_Paper_Scissors.dll
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.pdb
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.genruntimeconfig.cache
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\ref\Rock_Paper_Scissors.dll
