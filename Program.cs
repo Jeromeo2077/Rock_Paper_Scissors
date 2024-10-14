@@ -3,12 +3,26 @@
   private static void Main()
   {
     Console.WriteLine("Welcome to Rock, Paper, and Scissors!!!");
+    Console.WriteLine("Would you like to play a game? :P");
     Console.WriteLine();
     string userHand = GetUserHand();
     string computerHand = GetComputerHand();
 
     Console.WriteLine($"You chose: {userHand}");
     Console.WriteLine($"Computer chose: {computerHand}");
+
+    if (userHand == computerHand)
+    {
+      Console.WriteLine("It's a tie!");
+    }
+    else if (userHand == "Rock" && computerHand == "Scissors" || userHand == "Paper" && computerHand == "Rock" || userHand == "Scissors" && computerHand == "Paper")
+    {
+      Console.WriteLine("You win!");
+    }
+    else
+    {
+      Console.WriteLine("Computer wins!");
+    }
   }
 
   static string GetUserHand()
