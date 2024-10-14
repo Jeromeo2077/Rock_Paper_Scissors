@@ -5,6 +5,8 @@
     Console.WriteLine("Welcome to Rock, Paper, and Scissors!!!");
     Console.WriteLine();
     string userHand = GetUserHand();
+
+    Console.WriteLine($"You chose: {userHand}");
   }
 
   static string GetUserHand()
