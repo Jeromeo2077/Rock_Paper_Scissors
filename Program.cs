@@ -14,7 +14,7 @@
     Console.WriteLine("2. Paper");
     Console.WriteLine("3. Scissors");
 
-    string userHand = Console.ReadLine();
+    string? userHand = Console.ReadLine();
 
     if (userHand == "1")
     {
@@ -33,7 +33,9 @@
     }
     else  // If the user enters an invalid input
     {
+      Console.WriteLine();
       Console.WriteLine("Invalid input. Please try again.");
+      Console.WriteLine();
       return GetUserHand();
     }
   }
