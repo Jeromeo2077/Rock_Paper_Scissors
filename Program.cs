@@ -38,13 +38,14 @@
     string playAgain = Console.ReadLine();
     if (playAgain == "Y" || playAgain == "y")
     {
+      Console.Clear();
       Main();
     }
     else
     {
       Console.WriteLine("Thank you for playing!");
-      Console.WriteLine($"User Score: {UserScore}");
-      Console.WriteLine($"Computer Score: {ComputerScore}");
+      Console.WriteLine($"Final User Score: {UserScore}");
+      Console.WriteLine($"Final Computer Score: {ComputerScore}");
     }
 
     static string GetUserHand()
