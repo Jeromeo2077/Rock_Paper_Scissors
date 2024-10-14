@@ -46,8 +46,7 @@
 
   static string GetComputerHand()
   {
-    Random random = new Random();
-    int computerHand = random.Next(1, 4);
+    int computerHand = new Random().Next(1, 4);
 
     if (computerHand == 1)
     {
