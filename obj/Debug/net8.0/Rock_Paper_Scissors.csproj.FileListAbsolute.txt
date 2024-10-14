@@ -12,3 +12,4 @@ C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\refi
 C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.pdb
 C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.genruntimeconfig.cache
 C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\ref\Rock_Paper_Scissors.dll
+C:\Users\jerom\source\CodeWorks\CSharp\Rock_Paper_Scissors\obj\Debug\net8.0\Rock_Paper_Scissors.sourcelink.json
