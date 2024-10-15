@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rock_Paper_Scissors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+145bff068bfd24b32b5637b43b04cf8bd9cfcba7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfff2fb9f9d562c4c20413308649ce974984637c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rock_Paper_Scissors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rock_Paper_Scissors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
